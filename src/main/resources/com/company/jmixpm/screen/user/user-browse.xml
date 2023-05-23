@@ -46,6 +46,7 @@
                 <action id="changePassword" type="changePassword"/>
                 <action id="resetPassword" type="resetPassword"/>
                 <action id="resetRememberMeToken" type="resetRememberMeToken"/>
+                <action id="showUserSubstitutions" type="showUserSubstitutions"/>
             </actions>
             <columns>
                 <column id="username"/>
@@ -66,6 +67,7 @@
                         <action id="usersTable.changePassword"/>
                         <action id="usersTable.resetPassword"/>
                         <action id="usersTable.resetRememberMeToken"/>
+                        <action id="usersTable.showUserSubstitutions"/>
                     </actions>
                 </popupButton>
             </buttonsPanel>
